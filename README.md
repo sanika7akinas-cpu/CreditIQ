@@ -8,6 +8,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![GitHub License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+deployment site - https://alokxcreate.github.io/creditiq-credit-card-approval-prediction/
 **CREDITIQ** is a commercial-grade Machine Learning FinTech web application for automated credit card underwriting and risk assessment. Built with **React**, **FastAPI**, **Scikit-learn Logistic Regression**, and **GridSearchCV 5-Fold Stratified Hyperparameter Tuning**, it delivers high-precision credit approval predictions alongside full feature interpretability and decision explanation.
 
 ---
